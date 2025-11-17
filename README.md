@@ -41,3 +41,20 @@ C) KP781: Advanced treadmill with all the bells and whistles at $2,500.
 - Customer Profiling - Categorization of users.
 - Probability- marginal, conditional probability.
 - Some recommendations and actionable insights, based on the inferences.
+
+## Tools and Databases Used
+- **Language:** Python
+- **Libraries:** Pandas, NumPy, Seaborn, Matplotlib
+
+## Key Findings 
+- KP281 is the most purchased model (44.44%), appealing mainly to younger customers (Age ≤ 35) and those with lower annual income (≤ $45,000).
+- Correlation analysis reveals significant behavioral relationships:
+    * Miles & Usage (r = 0.75+)
+    * Fitness & Miles (r ≈ 0.78)
+    *  These are key predictors of upgrading to premium treadmills.
+- Fitness level clearly differentiates product segments:
+    * Fitness score 5 → 93.5% purchased KP781
+    * Fitness score 3 or below → majority purchased KP281
+- Partnered customers form 59% of total buyers, indicating household fitness investment as a major purchase driver.
+
+<img width="1046" height="734" alt="Screenshot 2025-11-17 213602" src="https://github.com/user-attachments/assets/4b296958-81f0-471f-9734-d537e2a7b2e9" />
