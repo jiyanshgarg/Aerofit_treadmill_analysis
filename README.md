@@ -26,7 +26,9 @@ Create two-way contingency tables and calculate conditional and marginal probabi
 Here's a quick overview of our treadmill products:
 
 A) KP281: Entry-level treadmill at $1,500.
+
 B) KP481: Mid-level runner's choice at $1,750.
+
 C) KP781: Advanced treadmill with all the bells and whistles at $2,500.
 
 ## Performed following Tasks
